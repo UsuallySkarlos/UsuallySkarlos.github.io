@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Kathmandu University</a>. Student.
+subtitle: <a href='https://www.ku.edu.np/'>Kathmandu University</a>. Student.
 
 profile:
   align: right
