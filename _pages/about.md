@@ -9,10 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   # <p>Kirtipur, Kathmandu</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Kirtipur, Kathmandu</p>
+    <p>Hoping to leave tho haha</p>
+    
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
