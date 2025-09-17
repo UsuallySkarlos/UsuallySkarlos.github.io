@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Kirtipur, Kathmandu</p>
+    <p>Nepal</p>
     <p>Hoping to leave tho haha</p>
     
 news: true # includes a list of news items
